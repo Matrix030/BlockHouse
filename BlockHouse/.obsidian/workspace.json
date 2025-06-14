@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BlockHouse.md",
+                "file": "Key Terms/Order Flow Imbalance (OFI).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BlockHouse"
+              "title": "Order Flow Imbalance (OFI)"
+            }
+          },
+          {
+            "id": "64a66e4fb18fed9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "> BlockHouse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "> BlockHouse"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 389.5
   },
   "right": {
     "id": "4b97714a8ef3a80e",
@@ -168,24 +183,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98a1634dcc168e30",
+  "active": "bf6903a83311c99c",
   "lastOpenFiles": [
-    "Key Terms/Best-Level OFI.md",
-    "BlockHouse.md",
-    "Column Breakdown - The Three Main Categories.md",
-    "Step 1/What Is This Data?.md",
-    "Key Terms/Order Flow Imbalance (OFI).md",
     "Understanding the Data Structure.md",
+    "Key Insights from This Data.md",
     "Understanding the Market Events.md",
     "What Each OFI Type Will Calculate.md",
-    "Key Insights from This Data.md",
-    "concerns.md",
+    "Column Breakdown - The Three Main Categories.md",
     "What This Looks Like Visually.md",
-    "Key Terms/order book.md",
-    "Step 1",
+    "concerns.md",
+    "Key Terms/Order Flow Imbalance (OFI).md",
+    "> BlockHouse.md",
+    "Step 1/What Is This Data?.md",
+    "Key Terms/Multi-Level OFI.md",
+    "Key Terms/Best-Level OFI.md",
     "Key Terms/Cross-Asset OFI.md",
     "Key Terms/Integrated OFI.md",
-    "Key Terms/Multi-Level OFI.md",
+    "Key Terms/order book.md",
+    "Step 1",
     "**Best-Level OFI**.md",
     "Order Flow Imbalance (OFI)**.md",
     "Key Terms/Order.md",

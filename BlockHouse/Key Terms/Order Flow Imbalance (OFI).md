@@ -19,3 +19,8 @@ The formula tracks when:
 - Sell orders get canceled → positive OFI
 
 **In your CSV data**: You have columns like `bid_px_00`, `bid_sz_00` (best bid price/size) through `bid_px_09`, `bid_sz_09` (10 levels deep).
+
+[[Best-Level OFI]]
+[[Cross-Asset OFI]]
+[[Integrated OFI]]
+[[Multi-Level OFI]]
