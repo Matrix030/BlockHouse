@@ -1,0 +1,1 @@
+Think of this like a real-time database table with buy/sell orders arranged by price. The "best level" is row 1 (best prices), and there are multiple levels (rows 2-10) with progressively worse prices.

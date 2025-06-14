@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "593510ebc2f6c7f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0d12a225fbbb5c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98a1634dcc168e30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BlockHouse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BlockHouse"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "014b700726e14366",
+    "type": "split",
+    "children": [
+      {
+        "id": "03ef323a4d27b341",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf6903a83311c99c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1406b68ecf6d00f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "64b1f197ad1c0d5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b97714a8ef3a80e",
+    "type": "split",
+    "children": [
+      {
+        "id": "16c2f4523211f4d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e79bb2bfad0dc10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "What This Looks Like Visually.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for What This Looks Like Visually"
+            }
+          },
+          {
+            "id": "991f188e00bfa0ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "What This Looks Like Visually.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from What This Looks Like Visually"
+            }
+          },
+          {
+            "id": "0c8da8aeebc0672c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c2baa648d0d8995e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "What This Looks Like Visually.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of What This Looks Like Visually"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "98a1634dcc168e30",
+  "lastOpenFiles": [
+    "Key Terms/Best-Level OFI.md",
+    "BlockHouse.md",
+    "Column Breakdown - The Three Main Categories.md",
+    "Step 1/What Is This Data?.md",
+    "Key Terms/Order Flow Imbalance (OFI).md",
+    "Understanding the Data Structure.md",
+    "Understanding the Market Events.md",
+    "What Each OFI Type Will Calculate.md",
+    "Key Insights from This Data.md",
+    "concerns.md",
+    "What This Looks Like Visually.md",
+    "Key Terms/order book.md",
+    "Step 1",
+    "Key Terms/Cross-Asset OFI.md",
+    "Key Terms/Integrated OFI.md",
+    "Key Terms/Multi-Level OFI.md",
+    "**Best-Level OFI**.md",
+    "Order Flow Imbalance (OFI)**.md",
+    "Key Terms/Order.md",
+    "Key Terms"
+  ]
+}
